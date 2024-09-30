@@ -1,0 +1,1 @@
+ANDD I have dived into the coding world. Its my first attempt at creating a website and am struggling to figure out the mistakes in my code and how to make it responsive and working again. Would appreicte tips, tricks and comments on how to make this a successful first attempt :)
